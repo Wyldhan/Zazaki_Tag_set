@@ -1,12 +1,23 @@
-# Zazaki POS-Tagged Gold Standard Dataset
+# 📚 Zazaki Gold Standard Dataset
+This repository provides a manually annotated gold standard dataset for Zazaki (Kirmanjki/Dimli), meticulously curated for Natural Language Processing (NLP) researchers. It serves as an essential benchmark for tasks such as Part-of-Speech (POS) tagging and morphological analysis.
 
-This repository contains a manually annotated gold standard dataset for Zazaki (Kirmanjki/Dimli) Kurdish, specifically curated for Natural Language Processing (NLP) researchers. This dataset serves as a robust benchmark for tasks such as Part-of-Speech (POS) tagging and morphological analysis.
+## 🛠 Dataset Specifications
+The dataset is composed of 100 sentences randomly sampled from the first 75 issues of the Vate journal. The following constraints were strictly implemented during the selection process:
 
-## Composition and Methodology
-The dataset was constructed using 100 sentences randomly sampled from the first 75 issues of the Vate journal, a primary source for standardized Zazaki. In the selection process, strict structural constraints were applied to ensure data consistency: each sentence was curated to contain a minimum of 4 and a maximum of 10 tokens.
+* **🔢 Token Range:** Minimum 4 – Maximum 10 tokens per sentence.
 
-## Application
-This specific gold standard was utilized as the evaluation ground truth in a study focused on the assessment of Hunspell-based morphological tools. By providing a verified reference point, it enables the precise measurement of error rates and linguistic coverage for Zazaki computational models.
+* **📖 Source Material:** Vate Journal (Issues 1–75).
+
+* **🎯 Selection Method:** Randomized sampling for linguistic diversity.
+
+## 🧪 Evaluation & Use Case
+This dataset was specifically developed and utilized for the performance evaluation of a Hunspell-based morphological framework. It provides a high-fidelity ground truth for measuring:
+
+* *✅ Morphological coverage*
+
+* *✅ Tagging accuracy*
+
+* *✅ Dictionary validation*
 
 ## 📊 Dataset Specifications
 
