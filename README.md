@@ -44,8 +44,9 @@ The data is stored in a structured **TSV** format, which is easily parsable by s
 
 | Column | Description |
 | :--- | :--- |
-| `Word` | The surface form (token) from the text. |
-| `Label` | The Part-of-Speech tag assigned by the experts. |
+| `Surface` | The surface form (token) from the text. |
+| `Lemma` | The canonical or dictionary form of the word. |
+| `Tag` | The Part-of-Speech (POS) label assigned by experts. |
 
 ### Sample Data
 ```text
