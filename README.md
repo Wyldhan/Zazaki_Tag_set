@@ -84,9 +84,12 @@ print(df.head())
 ```
 @dataset{zazaki_pos_2024,
   taggers = {Yıldız, Pınar and Aytekin, Hacı İbrahim},
-  title = {Zazaki POS-Tagged Gold Standard Dataset},
-  year = {2025},
-  author = {Yıldızhan, Veysel},
-  Thesis = {ZAZAKİ İÇİN HUNSPELL: VATE DERGİSİ DERLEMİ TEMELLİ MORFOLOJİK ANALİZÖR VE YAZIM DENETLEYİCİSİ}
+  author      = {Yıldızhan, V.},
+  title       = {SEBA ZAZAKÎ HUNSPELL: BI BINGEHÊ KORPUSÊ KOVARA VATEYÎ ANALİZKERO MORFOLOJÎK Û KONTROLKERÊ RASTNUŞTIŞÎ},
+  school      = {Dicle University},
+  year        = {2025},
+  type        = {Doctoral thesis},
+  note        = {Unpublished thesis},
+  address     = {Diyarbakır, Turkey}
 }
 ```
