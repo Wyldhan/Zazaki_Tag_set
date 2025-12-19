@@ -12,17 +12,18 @@ The dataset is composed of 100 sentences randomly sampled from the first 75 issu
 
 The following table illustrates the frequency of Part-of-Speech tags within the gold standard 
 
-|*Category*|*Tag*| *Count*|
-|*Noun |* |**NOUN**| |374|
-|*Verb*| **VERB**| 213|
-|*Pronoun*|**PRON**|170|
-|*Adposition*|**ADP**|137|
-|*Conjunction*|**CONJ**|92|
-|*Adjective*|**ADJ**|85|
-|*Adverb*|**ADV**|85|
-|*Numeral*|**NUM**|18|
-|*Particle*|**PART**|12|
-|*Interjection*|**INTJ**|2|
+| *Category* | *Tag* | *Count* |
+| :--- | :--- | :--- |
+| `Noun` |**NOUN** | 374 |
+| `Verb` | **VERB** | 213 |
+| `Pronoun` | **PRON** |170 |
+| `Adposition` | **ADP** | 137 |
+| `Conjunction` | **CONJ** | 92 |
+| `Adjective` | **ADJ** | 85 |
+| `Adverb` | **ADV** | 85 |
+| `Numeral` | **NUM** | 18 |
+| `Particle` | **PART** | 12 |
+| `Interjection` | **INTJ** | 2 |
 
 ## 🧪 Evaluation & Use Case
 This dataset was specifically developed and utilized for the performance evaluation of a Hunspell-based morphological framework. It provides a high-fidelity ground truth for measuring:
