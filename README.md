@@ -1,6 +1,6 @@
 # Zazaki POS-Tagged Gold Standard Dataset
 
-This repository contains a manually annotated gold standard dataset for **Zazaki** (Kirmanjki/Dimli), specifically curated for Natural Language Processing (NLP) researchers. Zazaki is an Indo-European language, and this dataset serves as a benchmark for tasks such as Part-of-Speech (POS) tagging and morphological analysis.
+This repository contains a manually annotated gold standard dataset for **Zazaki** (Kirmanjki/Dimli) Kurdish, specifically curated for Natural Language Processing (NLP) researchers. This dataset serves as a benchmark for tasks such as Part-of-Speech (POS) tagging and morphological analysis.
 
 ## 📊 Dataset Specifications
 
@@ -60,15 +60,15 @@ print(df.head())
 
 * **Linguistic Research:** Quantitative analysis of Zazaki word classes.
 
-##📜 Citation
-If you use this dataset in your research, please cite the contributors:
+## 📜 Citation
+*If you use this dataset in your research, please cite the contributors:*
 
 ```
 @dataset{zazaki_pos_2024,
   taggers = {Yıldız, Pınar and Aytekin, Hacı İbrahim},
   title = {Zazaki POS-Tagged Gold Standard Dataset},
   year = {2025},
-  publisher = {Yıldızhan, Veysel},
+  author = {Yıldızhan, Veysel},
   Thesis = {ZAZAKİ İÇİN HUNSPELL: VATE DERGİSİ DERLEMİ TEMELLİ MORFOLOJİK ANALİZÖR VE YAZIM DENETLEYİCİSİ}
 }
 ```
