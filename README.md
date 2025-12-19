@@ -1,6 +1,12 @@
 # Zazaki POS-Tagged Gold Standard Dataset
 
-This repository contains a manually annotated gold standard dataset for **Zazaki** (Kirmanjki/Dimli) Kurdish, specifically curated for Natural Language Processing (NLP) researchers. This dataset serves as a benchmark for tasks such as Part-of-Speech (POS) tagging and morphological analysis.
+This repository contains a manually annotated gold standard dataset for Zazaki (Kirmanjki/Dimli) Kurdish, specifically curated for Natural Language Processing (NLP) researchers. This dataset serves as a robust benchmark for tasks such as Part-of-Speech (POS) tagging and morphological analysis.
+
+## Composition and Methodology
+The dataset was constructed using 100 sentences randomly sampled from the first 75 issues of the Vate journal, a primary source for standardized Zazaki. In the selection process, strict structural constraints were applied to ensure data consistency: each sentence was curated to contain a minimum of 4 and a maximum of 10 tokens.
+
+## Application
+This specific gold standard was utilized as the evaluation ground truth in a study focused on the assessment of Hunspell-based morphological tools. By providing a verified reference point, it enables the precise measurement of error rates and linguistic coverage for Zazaki computational models.
 
 ## 📊 Dataset Specifications
 
