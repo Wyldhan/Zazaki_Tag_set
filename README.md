@@ -1,5 +1,5 @@
 # 📚 Zazaki Gold Standard Dataset
-This repository provides a manually annotated gold standard dataset for Zazaki (Kirmanjki/Dimli), meticulously curated for Natural Language Processing (NLP) researchers. It serves as an essential benchmark for tasks such as Part-of-Speech (POS) tagging and morphological analysis.
+This repository provides a manually annotated gold standard dataset for Zazaki (Kirmanjki/Dimli) Kurdish, meticulously curated for Natural Language Processing (NLP) researchers. It serves as an essential benchmark for tasks such as Part-of-Speech (POS) tagging and morphological analysis.
 
 ## 🛠 Dataset Specifications
 The dataset is composed of 100 sentences randomly sampled from the first 75 issues of the Vate journal. The following constraints were strictly implemented during the selection process:
